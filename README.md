@@ -1,2 +1,1 @@
-# CS4650
-# Big-Data-Analytics-and-Cloud-Computing
+# CS 4650
