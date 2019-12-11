@@ -1,0 +1,12 @@
+Visualization Practice
+Attached Files:
+File Plots.py (6.633 KB)
+We illustrated visualization based on NumPy (Plots.py attached), DataFrame (lecture slides), and Seaborn (https://www.datacamp.com/community/tutorials/seaborn-python-tutorial )
+
+Read in your own dataset (1 or more datasets) to DataFrame(s) and draw 6 different graphs: 1 line chart, 1 bar chart, 1 histogram, 1 pie chart, 1 scatter graph, and 1 either 3-D or map.
+
+5 points (activity)
+
+Due: Thursday, 9/19 by the end of the day.
+
+Submission: On your webpage, establish a link to your code and graphs for this activity. No need to submit on blackboard. 

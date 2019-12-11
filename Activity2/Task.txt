@@ -1,0 +1,8 @@
+NumPy Practice
+Task: NumPy (Lecture 3) Activity #1
+
+Submission instructions:
+
+(1) If you work on google colab, you may just submit a link to your google colab project (preferred way: put the link on your webpage.)  
+
+(2) If you work on Anaconda, submit the codes plus screen shots of your output (If you come up with better ways of submitting your results let me know. Thanks!)

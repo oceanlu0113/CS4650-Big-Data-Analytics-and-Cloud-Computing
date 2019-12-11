@@ -1,0 +1,11 @@
+Create your personal webpage
+Activate your https://www.cpp.edu/~YourBroncoName webspace;
+
+Create/transfer a simple index.html file (or other similar file that could serve as your homepage) to the directory /www/user/YourBroncoName.
+
+Now access your website https://www.cpp.edu/~YourBroncoName  -- make sure it displays at least your name and some brief information.
+
+Due: Thursday, 9/5 1pm.
+
+My website:
+https://www.cpp.edu/~oslu
